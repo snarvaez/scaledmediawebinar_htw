@@ -1,0 +1,1766 @@
+[{    "id": "urn:hbo:episode:GXI_5Mg893qUKwgEAAABM",    "statusCode": 200,    "headers": {"ETag":"\"223d-BrXKrcdV3SyYiS/+F04XJQ\"","Cache-Control":"max-age=60"},    "body": {
+    "titles": {
+        "short": "The Long Night",
+        "full": "The Long Night"
+    },
+    "summaries": {
+        "short": "Arya looks to prove her worth as a fighter.",
+        "full": "Arya looks to prove her worth as a fighter."
+    },
+    "images": {
+        "tile": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5Mg893qUKwgEAAABM/tile?v=5e40771e60e14cc1d47d9bc9d0d0fc5e&size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "tilezoom": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5Mg893qUKwgEAAABM/tilezoom?v=97b2d39fc9dbc1bb1f34d88d1f6e1642&size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "background": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5Mg893qUKwgEAAABM/background?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "backgroundburnedin": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5Mg893qUKwgEAAABM/backgroundburnedin?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "tileburnedin": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5Mg893qUKwgEAAABM/tileburnedin?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "tilefocused": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5Mg893qUKwgEAAABM/tilefocused?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "tileselected": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5Mg893qUKwgEAAABM/tileselected?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "logo": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5Mg893qUKwgEAAABM/logo?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "logopadded": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5Mg893qUKwgEAAABM/logopadded?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "placeholder": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5Mg893qUKwgEAAABM/placeholder?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}"
+    },
+    "isFree": false,
+    
+    "releaseYear": 2019,
+    "ratingCode": "TV-MA",
+    "duration": 4877,
+    "credits": {
+            "cast": [
+                {
+                    "role": "Tyrion Lannister",
+                    "person": "Peter Dinklage"
+                },
+                {
+                    "role": "Jaime Lannister",
+                    "person": "Nikolaj Coster-Waldau"
+                },
+                {
+                    "role": "Daenerys Targaryen",
+                    "person": "Emilia Clarke"
+                },
+                {
+                    "role": "Jon Snow",
+                    "person": "Kit Harington"
+                },
+                {
+                    "role": "Sansa Stark",
+                    "person": "Sophie Turner"
+                },
+                {
+                    "role": "Arya Stark",
+                    "person": "Maisie Williams"
+                },
+                {
+                    "role": "Davos Seaworth",
+                    "person": "Liam Cunningham"
+                },
+                {
+                    "role": "Melisandre",
+                    "person": "Carice van Houten"
+                },
+                {
+                    "role": "Missandei",
+                    "person": "Nathalie Emmanuel"
+                },
+                {
+                    "role": "Theon Greyjoy",
+                    "person": "Alfie Allen"
+                },
+                {
+                    "role": "Bran Stark",
+                    "person": "Isaac Hempstead Wright"
+                },
+                {
+                    "role": "Samwell Tarly",
+                    "person": "John Bradley"
+                },
+                {
+                    "role": "Gilly",
+                    "person": "Hannah Murray"
+                },
+                {
+                    "role": "Brienne of Tarth",
+                    "person": "Gwendoline Christie"
+                },
+                {
+                    "role": "Varys",
+                    "person": "Conleth Hill"
+                },
+                {
+                    "role": "Sandor Clegane \"The Hound\"",
+                    "person": "Rory McCann"
+                },
+                {
+                    "role": "Tormund",
+                    "person": "Kristofer Hivju"
+                },
+                {
+                    "role": "Gendry",
+                    "person": "Joe Dempsie"
+                },
+                {
+                    "role": "Grey Worm",
+                    "person": "Jacob Anderson"
+                },
+                {
+                    "role": "Jorah Mormont",
+                    "person": "Iain Glen"
+                }
+            ],
+            "directors": [
+                {
+                    "role": "Directed By",
+                    "person": "Miguel Sapochnik"
+                }
+            ],
+            "producers": [
+                {
+                    "role": "Executive Producer",
+                    "person": "David Benioff"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "D.B. Weiss"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "Carolyn Strauss"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "Frank Doelger"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "Bernadette Caulfield"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "Miguel Sapochnik"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "David Nutter"
+                },
+                {
+                    "role": "Co-executive Producer",
+                    "person": "Bryan Cogman"
+                },
+                {
+                    "role": "Co-executive Producer",
+                    "person": "Guymon Casady"
+                },
+                {
+                    "role": "Co-executive Producer",
+                    "person": "Vince Gerardis"
+                },
+                {
+                    "role": "Co-executive Producer",
+                    "person": "George R.R. Martin"
+                },
+                {
+                    "role": "Producer",
+                    "person": "Lisa McAtackney"
+                },
+                {
+                    "role": "Producer",
+                    "person": "Greg Spence"
+                },
+                {
+                    "role": "Producer",
+                    "person": "Chris Newman"
+                },
+                {
+                    "role": "Producer",
+                    "person": "Duncan Muggoch"
+                }
+            ],
+            "writers": [
+                {
+                    "role": "Written For Television By",
+                    "person": "David Benioff"
+                },
+                {
+                    "role": "Written For Television By",
+                    "person": "D.B. Weiss"
+                },
+                {
+                    "role": "Based On \"a Song Of Ice And Fire\" By",
+                    "person": "George R.R. Martin"
+                }
+            ]
+    },
+    "firstOfferedDate": "2019-04-29T00:57:00.000Z",
+    
+    "displayBrand": "HBO",
+    "analyticsId": "GXI_5Mg893qUKwgEAAABM",
+    "seriesTitles": {
+        "short": "Game of Thrones",
+        "full": "Game of Thrones"
+    },
+    "seasonTitles": {
+        "ultraShort": "8",
+        "short": "Sn 8",
+        "full": "Season 8"
+    },
+    "numberInSeason": 3,
+    "seasonNumber": 8,
+    "playbackMarkerId": "GXI_5Mg893qUKwgEAAABM",
+    "shouldUseEpisodePrefix": true,
+    "references": {
+        "edits": [
+            "urn:hbo:edit:GXl634wSFDjC3wwEAACdk:episode:GXI_5Mg893qUKwgEAAABM"
+        ],
+        "extras": [
+            "urn:hbo:extra:GXL8vPwNGCKyWuwEAAAO0",
+            "urn:hbo:extra:GXL85kguFFqyWuwEAAAPU",
+            "urn:hbo:extra:GXL897QDtiLSHgAEAAAOu"
+        ],
+        "series": "urn:hbo:series:GVU2cggagzYNJjhsJATwo",
+        "season": "urn:hbo:season:GXI_5KA8r_quWIwEAAABb",
+        "next": "urn:hbo:episode:GXJv1cwxC4qgjKgEAAAHL",
+        "previous": "urn:hbo:episode:GXI_5MwWe6KUKwgEAAABP"
+    }
+}
+},{    "id": "urn:hbo:episode:GXI_5MwWe6KUKwgEAAABP",    "statusCode": 200,    "headers": {"ETag":"\"218f-DfBaqtIJ7Glbmx4omLJH8Q\"","Cache-Control":"max-age=60"},    "body": {
+    "titles": {
+        "short": "A Knight of the Seven Kingdoms",
+        "full": "A Knight of the Seven Kingdoms"
+    },
+    "summaries": {
+        "short": "Jaime argues his case before a skeptical audience.",
+        "full": "Jaime argues his case before a skeptical audience."
+    },
+    "images": {
+        "tile": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5MwWe6KUKwgEAAABP/tile?v=86e44f9ac20e31fa6daf63a083ffb7b6&size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "tilezoom": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5MwWe6KUKwgEAAABP/tilezoom?v=d01c0f02bbf57e626acc1b5a2e2b99c6&size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "background": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5MwWe6KUKwgEAAABP/background?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "backgroundburnedin": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5MwWe6KUKwgEAAABP/backgroundburnedin?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "tileburnedin": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5MwWe6KUKwgEAAABP/tileburnedin?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "tilefocused": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5MwWe6KUKwgEAAABP/tilefocused?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "tileselected": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5MwWe6KUKwgEAAABP/tileselected?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "logo": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5MwWe6KUKwgEAAABP/logo?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "logopadded": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5MwWe6KUKwgEAAABP/logopadded?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "placeholder": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5MwWe6KUKwgEAAABP/placeholder?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}"
+    },
+    "isFree": false,
+    
+    "releaseYear": 2019,
+    "ratingCode": "TV-MA",
+    "duration": 3476,
+    "credits": {
+            "cast": [
+                {
+                    "role": "Tyrion Lannister",
+                    "person": "Peter Dinklage"
+                },
+                {
+                    "role": "Jaime Lannister",
+                    "person": "Nikolaj Coster-Waldau"
+                },
+                {
+                    "role": "Daenerys Targaryen",
+                    "person": "Emilia Clarke"
+                },
+                {
+                    "role": "Jon Snow",
+                    "person": "Kit Harington"
+                },
+                {
+                    "role": "Sansa Stark",
+                    "person": "Sophie Turner"
+                },
+                {
+                    "role": "Arya Stark",
+                    "person": "Maisie Williams"
+                },
+                {
+                    "role": "Davos Seaworth",
+                    "person": "Liam Cunningham"
+                },
+                {
+                    "role": "Missandei",
+                    "person": "Nathalie Emmanuel"
+                },
+                {
+                    "role": "Theon Greyjoy",
+                    "person": "Alfie Allen"
+                },
+                {
+                    "role": "Gendry",
+                    "person": "Joe Dempsie"
+                },
+                {
+                    "role": "Bran Stark",
+                    "person": "Isaac Hempstead Wright"
+                },
+                {
+                    "role": "Samwell Tarly",
+                    "person": "John Bradley"
+                },
+                {
+                    "role": "Gilly",
+                    "person": "Hannah Murray"
+                },
+                {
+                    "role": "Brienne of Tarth",
+                    "person": "Gwendoline Christie"
+                },
+                {
+                    "role": "Varys",
+                    "person": "Conleth Hill"
+                },
+                {
+                    "role": "Sandor Clegane \"The Hound\"",
+                    "person": "Rory McCann"
+                },
+                {
+                    "role": "Tormund",
+                    "person": "Kristofer Hivju"
+                },
+                {
+                    "role": "Grey Worm",
+                    "person": "Jacob Anderson"
+                },
+                {
+                    "role": "Jorah Mormont",
+                    "person": "Iain Glen"
+                }
+            ],
+            "directors": [
+                {
+                    "role": "Directed By",
+                    "person": "David Nutter"
+                }
+            ],
+            "producers": [
+                {
+                    "role": "Executive Producer",
+                    "person": "David Benioff"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "D.B. Weiss"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "Carolyn Strauss"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "Frank Doelger"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "Bernadette Caulfield"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "Miguel Sapochnik"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "David Nutter"
+                },
+                {
+                    "role": "Co-executive Producer",
+                    "person": "Bryan Cogman"
+                },
+                {
+                    "role": "Co-executive Producer",
+                    "person": "Guymon Casady"
+                },
+                {
+                    "role": "Co-executive Producer",
+                    "person": "Vince Gerardis"
+                },
+                {
+                    "role": "Co-executive Producer",
+                    "person": "George R.R. Martin"
+                },
+                {
+                    "role": "Producer",
+                    "person": "Lisa McAtackney"
+                },
+                {
+                    "role": "Producer",
+                    "person": "Greg Spence"
+                },
+                {
+                    "role": "Producer",
+                    "person": "Chris Newman"
+                },
+                {
+                    "role": "Producer",
+                    "person": "Duncan Muggoch"
+                }
+            ],
+            "writers": [
+                {
+                    "role": "Written For Television By",
+                    "person": "Bryan Cogman"
+                },
+                {
+                    "role": "Based On \"a Song Of Ice And Fire\" By",
+                    "person": "George R.R. Martin"
+                }
+            ]
+    },
+    "firstOfferedDate": "2019-04-22T00:57:00.000Z",
+    
+    "displayBrand": "HBO",
+    "analyticsId": "GXI_5MwWe6KUKwgEAAABP",
+    "seriesTitles": {
+        "short": "Game of Thrones",
+        "full": "Game of Thrones"
+    },
+    "seasonTitles": {
+        "ultraShort": "8",
+        "short": "Sn 8",
+        "full": "Season 8"
+    },
+    "numberInSeason": 2,
+    "seasonNumber": 8,
+    "playbackMarkerId": "GXI_5MwWe6KUKwgEAAABP",
+    "shouldUseEpisodePrefix": true,
+    "references": {
+        "edits": [
+            "urn:hbo:edit:GXmfgmQs32CLCHAEAABvN:episode:GXI_5MwWe6KUKwgEAAABP"
+        ],
+        "extras": [
+            "urn:hbo:extra:GXLY1RgKAV8N8owEAAAEz",
+            "urn:hbo:extra:GXLY2rQ4CnsN8owEAAAE1",
+            "urn:hbo:extra:GXLay_gyXAcN8owEAAAE7",
+            "urn:hbo:extra:GXLazCAq0tsN8owEAAAE9"
+        ],
+        "series": "urn:hbo:series:GVU2cggagzYNJjhsJATwo",
+        "season": "urn:hbo:season:GXI_5KA8r_quWIwEAAABb",
+        "next": "urn:hbo:episode:GXI_5Mg893qUKwgEAAABM",
+        "previous": "urn:hbo:episode:GXI_5KA4GvKUKwgEAAABH"
+    }
+}
+},{    "id": "urn:hbo:edit:GXl634wSFDjC3wwEAACdk:episode:GXI_5Mg893qUKwgEAAABM",    "statusCode": 200,    "headers": {"ETag":"\"6b0-KwEKwY5Tyd0Z7Aaa+qJTuA\"","Cache-Control":"max-age=60"},    "body": {
+    "originalAudioLanguage": "en-US",
+"audioTracks":             [
+                {
+                    "language": "en-US",
+                    "output": "5.1 Surround",
+                    "displayName": "English"
+                },
+                {
+                    "language": "en-US",
+                    "output": "5.1 Surround",
+                    "displayName": "English"
+                },
+                {
+                    "language": "en-US",
+                    "output": "Stereo",
+                    "displayName": "English"
+                },
+                {
+                    "language": "es-419",
+                    "output": "Stereo",
+                    "displayName": "Español"
+                },
+                {
+                    "language": "es-419",
+                    "output": "Stereo",
+                    "displayName": "Español"
+                },
+                {
+                    "language": "es-419",
+                    "output": "Stereo",
+                    "displayName": "Español"
+                }
+            ],
+"textTracks":             [
+                {
+                    "language": "es-419",
+                    "displayName": "Español"
+                },
+                {
+                    "language": "en-US",
+                    "displayName": "English CC"
+                }
+            ],
+    "creditsStartTime": 4799,
+    "duration": 4877,
+    "quality": "HD",
+    "playbackMarkerId": "GXI_5Mg893qUKwgEAAABM",
+    "analyticsId": "GXl634wSFDjC3wwEAACdk",
+    "references": {
+        "viewable": "urn:hbo:episode:GXI_5Mg893qUKwgEAAABM",
+        "video": "urn:hbo:video:GXl634wSFDjC3wwEAACdk:episode:GXI_5Mg893qUKwgEAAABM"
+    }
+}
+},{    "id": "urn:hbo:episode:GXJv1cwxC4qgjKgEAAAHL",    "statusCode": 200,    "headers": {"ETag":"\"239d-Up5vsXepUN2Tp2xSHVr/mg\"","Cache-Control":"max-age=60"},    "body": {
+    "titles": {
+        "short": "The Last of the Starks",
+        "full": "The Last of the Starks"
+    },
+    "summaries": {
+        "short": "In the wake of a costly victory, Jon and Daenerys look to the south as Tyrion eyes a compromise that could save countless lives.",
+        "full": "In the wake of a costly victory, Jon and Daenerys look to the south as Tyrion eyes a compromise that could save countless lives."
+    },
+    "images": {
+        "tile": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1cwxC4qgjKgEAAAHL/tile?v=6565e3c027e62840dc624036d909f0df&size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "tilezoom": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1cwxC4qgjKgEAAAHL/tilezoom?v=c821552dcffbce6db988b38363c11430&size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "background": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1cwxC4qgjKgEAAAHL/background?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "backgroundburnedin": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1cwxC4qgjKgEAAAHL/backgroundburnedin?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "tileburnedin": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1cwxC4qgjKgEAAAHL/tileburnedin?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "tilefocused": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1cwxC4qgjKgEAAAHL/tilefocused?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "tileselected": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1cwxC4qgjKgEAAAHL/tileselected?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "logo": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1cwxC4qgjKgEAAAHL/logo?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "logopadded": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1cwxC4qgjKgEAAAHL/logopadded?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "placeholder": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1cwxC4qgjKgEAAAHL/placeholder?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}"
+    },
+    "isFree": false,
+    
+    "releaseYear": 2019,
+    "ratingCode": "TV-MA",
+    "duration": 4621,
+    "credits": {
+            "cast": [
+                {
+                    "role": "Tyrion Lannister",
+                    "person": "Peter Dinklage"
+                },
+                {
+                    "role": "Jaime Lannister",
+                    "person": "Nikolaj Coster-Waldau"
+                },
+                {
+                    "role": "Cersei Lannister",
+                    "person": "Lena Headey"
+                },
+                {
+                    "role": "Daenerys Targaryen",
+                    "person": "Emilia Clarke"
+                },
+                {
+                    "role": "Jon Snow",
+                    "person": "Kit Harington"
+                },
+                {
+                    "role": "Sansa Stark",
+                    "person": "Sophie Turner"
+                },
+                {
+                    "role": "Arya Stark",
+                    "person": "Maisie Williams"
+                },
+                {
+                    "role": "Davos Seaworth",
+                    "person": "Liam Cunningham"
+                },
+                {
+                    "role": "Missandei",
+                    "person": "Nathalie Emmanuel"
+                },
+                {
+                    "role": "Theon Greyjoy",
+                    "person": "Alfie Allen"
+                },
+                {
+                    "role": "Bran Stark",
+                    "person": "Isaac Hempstead Wright"
+                },
+                {
+                    "role": "Brienne of Tarth",
+                    "person": "Gwendoline Christie"
+                },
+                {
+                    "role": "Varys",
+                    "person": "Conleth Hill"
+                },
+                {
+                    "role": "Samwell Tarly",
+                    "person": "John Bradley"
+                },
+                {
+                    "role": "Gilly",
+                    "person": "Hannah Murray"
+                },
+                {
+                    "role": "Sandor Clegane \"The Hound\"",
+                    "person": "Rory McCann"
+                },
+                {
+                    "role": "Bronn",
+                    "person": "Jerome Flynn"
+                },
+                {
+                    "role": "Tormund",
+                    "person": "Kristofer Hivju"
+                },
+                {
+                    "role": "Gendry",
+                    "person": "Joe Dempsie"
+                },
+                {
+                    "role": "Grey Worm",
+                    "person": "Jacob Anderson"
+                },
+                {
+                    "role": "Jorah Mormont",
+                    "person": "Iain Glen"
+                }
+            ],
+            "directors": [
+                {
+                    "role": "Directed By",
+                    "person": "David Nutter"
+                }
+            ],
+            "producers": [
+                {
+                    "role": "Executive Producer",
+                    "person": "David Benioff"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "D.B. Weiss"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "Carolyn Strauss"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "Frank Doelger"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "Bernadette Caulfield"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "Miguel Sapochnik"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "David Nutter"
+                },
+                {
+                    "role": "Co-executive Producer",
+                    "person": "Bryan Cogman"
+                },
+                {
+                    "role": "Co-executive Producer",
+                    "person": "Guymon Casady"
+                },
+                {
+                    "role": "Co-executive Producer",
+                    "person": "Vince Gerardis"
+                },
+                {
+                    "role": "Co-executive Producer",
+                    "person": "George R.R. Martin"
+                },
+                {
+                    "role": "Producer",
+                    "person": "Lisa McAtackney"
+                },
+                {
+                    "role": "Producer",
+                    "person": "Greg Spence"
+                },
+                {
+                    "role": "Producer",
+                    "person": "Chris Newman"
+                },
+                {
+                    "role": "Producer",
+                    "person": "Duncan Muggoch"
+                }
+            ],
+            "writers": [
+                {
+                    "role": "Written For Television By",
+                    "person": "David Benioff"
+                },
+                {
+                    "role": "Written For Television By",
+                    "person": "D.B. Weiss"
+                },
+                {
+                    "role": "Based On \"a Song Of Ice And Fire\" By",
+                    "person": "George R.R. Martin"
+                }
+            ]
+    },
+    "firstOfferedDate": "2019-05-06T00:57:00.000Z",
+    
+    "displayBrand": "HBO",
+    "analyticsId": "GXJv1cwxC4qgjKgEAAAHL",
+    "seriesTitles": {
+        "short": "Game of Thrones",
+        "full": "Game of Thrones"
+    },
+    "seasonTitles": {
+        "ultraShort": "8",
+        "short": "Sn 8",
+        "full": "Season 8"
+    },
+    "numberInSeason": 4,
+    "seasonNumber": 8,
+    "playbackMarkerId": "GXJv1cwxC4qgjKgEAAAHL",
+    "shouldUseEpisodePrefix": true,
+    "references": {
+        "edits": [
+            "urn:hbo:edit:GXmfgEQRJw8NVoAEAAABs:episode:GXJv1cwxC4qgjKgEAAAHL"
+        ],
+        "extras": [
+            "urn:hbo:extra:GXMiDxgCCy8IpYAEAAACZ",
+            "urn:hbo:extra:GXMiEKQ0hcMIpYAEAAACa",
+            "urn:hbo:extra:GXL82tQ8JcMN8owEAAAPO",
+            "urn:hbo:extra:GXL8vSQvB3rSHgAEAAAOB"
+        ],
+        "series": "urn:hbo:series:GVU2cggagzYNJjhsJATwo",
+        "season": "urn:hbo:season:GXI_5KA8r_quWIwEAAABb",
+        "next": "urn:hbo:episode:GXJv1kQyS34N3wwEAAAIU",
+        "previous": "urn:hbo:episode:GXI_5Mg893qUKwgEAAABM"
+    }
+}
+},{    "id": "urn:hbo:edit:GXmfgEQRJw8NVoAEAAABs:episode:GXJv1cwxC4qgjKgEAAAHL",    "statusCode": 200,    "headers": {"ETag":"\"6b0-auVFIzNicMFskBImFWBhnQ\"","Cache-Control":"max-age=60"},    "body": {
+    "originalAudioLanguage": "en-US",
+"audioTracks":             [
+                {
+                    "language": "en-US",
+                    "output": "5.1 Surround",
+                    "displayName": "English"
+                },
+                {
+                    "language": "en-US",
+                    "output": "5.1 Surround",
+                    "displayName": "English"
+                },
+                {
+                    "language": "en-US",
+                    "output": "Stereo",
+                    "displayName": "English"
+                },
+                {
+                    "language": "es-419",
+                    "output": "Stereo",
+                    "displayName": "Español"
+                },
+                {
+                    "language": "es-419",
+                    "output": "Stereo",
+                    "displayName": "Español"
+                },
+                {
+                    "language": "es-419",
+                    "output": "Stereo",
+                    "displayName": "Español"
+                }
+            ],
+"textTracks":             [
+                {
+                    "language": "en-US",
+                    "displayName": "English CC"
+                },
+                {
+                    "language": "es-419",
+                    "displayName": "Español"
+                }
+            ],
+    "creditsStartTime": 4543,
+    "duration": 4621,
+    "quality": "HD",
+    "playbackMarkerId": "GXJv1cwxC4qgjKgEAAAHL",
+    "analyticsId": "GXmfgEQRJw8NVoAEAAABs",
+    "references": {
+        "viewable": "urn:hbo:episode:GXJv1cwxC4qgjKgEAAAHL",
+        "video": "urn:hbo:video:GXmfgEQRJw8NVoAEAAABs:episode:GXJv1cwxC4qgjKgEAAAHL"
+    }
+}
+},{    "id": "urn:hbo:episode:GXJv1kQyS34N3wwEAAAIU",    "statusCode": 200,    "headers": {"ETag":"\"1dcb-oo09Lb8w/uzd7s/OBFod6w\"","Cache-Control":"max-age=60"},    "body": {
+    "titles": {
+        "short": "The Bells",
+        "full": "The Bells"
+    },
+    "summaries": {
+        "short": "Daenerys and Cersei weigh their options as an epic conflict looms at King’s Landing.",
+        "full": "Daenerys and Cersei weigh their options as an epic conflict looms at King’s Landing."
+    },
+    "images": {
+        "tile": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1kQyS34N3wwEAAAIU/tile?v=3bba7c775f352df1019eb21469c28adf&size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "tilezoom": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1kQyS34N3wwEAAAIU/tilezoom?v=7a0ed85b79fe1ae757b1a643cb51da46&size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "background": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1kQyS34N3wwEAAAIU/background?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "backgroundburnedin": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1kQyS34N3wwEAAAIU/backgroundburnedin?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "tileburnedin": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1kQyS34N3wwEAAAIU/tileburnedin?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "tilefocused": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1kQyS34N3wwEAAAIU/tilefocused?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "tileselected": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1kQyS34N3wwEAAAIU/tileselected?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "logo": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1kQyS34N3wwEAAAIU/logo?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "logopadded": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1kQyS34N3wwEAAAIU/logopadded?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "placeholder": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1kQyS34N3wwEAAAIU/placeholder?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}"
+    },
+    "isFree": false,
+    
+    "releaseYear": 2019,
+    "ratingCode": "TV-MA",
+    "duration": 4676,
+    "credits": {
+            "cast": [
+                {
+                    "role": "Tyrion Lannister",
+                    "person": "Peter Dinklage"
+                },
+                {
+                    "role": "Jaime Lannister",
+                    "person": "Nikolaj Coster-Waldau"
+                },
+                {
+                    "role": "Cersei Lannister",
+                    "person": "Lena Headey"
+                },
+                {
+                    "role": "Daenerys Targaryen",
+                    "person": "Emilia Clarke"
+                },
+                {
+                    "role": "Jon Snow",
+                    "person": "Kit Harington"
+                },
+                {
+                    "role": "Arya Stark",
+                    "person": "Maisie Williams"
+                },
+                {
+                    "role": "Davos Seaworth",
+                    "person": "Liam Cunningham"
+                },
+                {
+                    "role": "Varys",
+                    "person": "Conleth Hill"
+                },
+                {
+                    "role": "Sandor Clegane \"The Hound\"",
+                    "person": "Rory McCann"
+                },
+                {
+                    "role": "Grey Worm",
+                    "person": "Jacob Anderson"
+                }
+            ],
+            "directors": [
+                {
+                    "role": "Directed By",
+                    "person": "Miguel Sapochnik"
+                }
+            ],
+            "producers": [
+                {
+                    "role": "Executive Producer",
+                    "person": "David Benioff"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "D.B. Weiss"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "Carolyn Strauss"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "Frank Doelger"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "Bernadette Caulfield"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "Miguel Sapochnik"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "David Nutter"
+                },
+                {
+                    "role": "Co-executive Producer",
+                    "person": "Bryan Cogman"
+                },
+                {
+                    "role": "Co-executive Producer",
+                    "person": "Guymon Casady"
+                },
+                {
+                    "role": "Co-executive Producer",
+                    "person": "Vince Gerardis"
+                },
+                {
+                    "role": "Co-executive Producer",
+                    "person": "George R.R. Martin"
+                },
+                {
+                    "role": "Producer",
+                    "person": "Lisa McAtackney"
+                },
+                {
+                    "role": "Producer",
+                    "person": "Greg Spence"
+                },
+                {
+                    "role": "Producer",
+                    "person": "Chris Newman"
+                },
+                {
+                    "role": "Producer",
+                    "person": "Duncan Muggoch"
+                }
+            ],
+            "writers": [
+                {
+                    "role": "Written For Television By",
+                    "person": "David Benioff"
+                },
+                {
+                    "role": "Written For Television By",
+                    "person": "D.B. Weiss"
+                },
+                {
+                    "role": "Based On \"a Song Of Ice And Fire\" By",
+                    "person": "George R.R. Martin"
+                }
+            ]
+    },
+    "firstOfferedDate": "2019-05-13T00:57:00.000Z",
+    
+    "displayBrand": "HBO",
+    "analyticsId": "GXJv1kQyS34N3wwEAAAIU",
+    "seriesTitles": {
+        "short": "Game of Thrones",
+        "full": "Game of Thrones"
+    },
+    "seasonTitles": {
+        "ultraShort": "8",
+        "short": "Sn 8",
+        "full": "Season 8"
+    },
+    "numberInSeason": 5,
+    "seasonNumber": 8,
+    "playbackMarkerId": "GXJv1kQyS34N3wwEAAAIU",
+    "shouldUseEpisodePrefix": true,
+    "references": {
+        "edits": [
+            "urn:hbo:edit:GXmfgJQlYAcNVoAEAAABu:episode:GXJv1kQyS34N3wwEAAAIU"
+        ],
+        "extras": [
+            "urn:hbo:extra:GXNH5YAr4vcIpYAEAAAHF",
+            "urn:hbo:extra:GXNH5agV-x563mgEAAAHA",
+            "urn:hbo:extra:GXNH5dAaLE8LDwgEAAAGm",
+            "urn:hbo:extra:GXNWPfAQu98IpYAEAAALQ"
+        ],
+        "series": "urn:hbo:series:GVU2cggagzYNJjhsJATwo",
+        "season": "urn:hbo:season:GXI_5KA8r_quWIwEAAABb",
+        "next": "urn:hbo:episode:GXJv1mw0FQagjKgEAAAHQ",
+        "previous": "urn:hbo:episode:GXJv1cwxC4qgjKgEAAAHL"
+    }
+}
+},{    "id": "urn:hbo:edit:GXmfgmQs32CLCHAEAABvN:episode:GXI_5MwWe6KUKwgEAAABP",    "statusCode": 200,    "headers": {"ETag":"\"6b0-3tvyhNU9O9nhQ9iM3LtmcA\"","Cache-Control":"max-age=60"},    "body": {
+    "originalAudioLanguage": "en-US",
+"audioTracks":             [
+                {
+                    "language": "en-US",
+                    "output": "5.1 Surround",
+                    "displayName": "English"
+                },
+                {
+                    "language": "en-US",
+                    "output": "5.1 Surround",
+                    "displayName": "English"
+                },
+                {
+                    "language": "en-US",
+                    "output": "Stereo",
+                    "displayName": "English"
+                },
+                {
+                    "language": "es-419",
+                    "output": "Stereo",
+                    "displayName": "Español"
+                },
+                {
+                    "language": "es-419",
+                    "output": "Stereo",
+                    "displayName": "Español"
+                },
+                {
+                    "language": "es-419",
+                    "output": "Stereo",
+                    "displayName": "Español"
+                }
+            ],
+"textTracks":             [
+                {
+                    "language": "es-419",
+                    "displayName": "Español"
+                },
+                {
+                    "language": "en-US",
+                    "displayName": "English CC"
+                }
+            ],
+    "creditsStartTime": 3398,
+    "duration": 3476,
+    "quality": "HD",
+    "playbackMarkerId": "GXI_5MwWe6KUKwgEAAABP",
+    "analyticsId": "GXmfgmQs32CLCHAEAABvN",
+    "references": {
+        "viewable": "urn:hbo:episode:GXI_5MwWe6KUKwgEAAABP",
+        "video": "urn:hbo:video:GXmfgmQs32CLCHAEAABvN:episode:GXI_5MwWe6KUKwgEAAABP"
+    }
+}
+},{    "id": "urn:hbo:episode:GXI_5KA4GvKUKwgEAAABH",    "statusCode": 200,    "headers": {"ETag":"\"23a1-U7gUGMwbeBLMMdNOhIbMAw\"","Cache-Control":"max-age=60"},    "body": {
+    "titles": {
+        "short": "Winterfell",
+        "full": "Winterfell"
+    },
+    "summaries": {
+        "short": "Season 8 Premiere. Arriving at Winterfell, Jon and Daenerys struggle to unite a divided North.",
+        "full": "Season 8 Premiere. Arriving at Winterfell, Jon and Daenerys struggle to unite a divided North."
+    },
+    "images": {
+        "tile": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5KA4GvKUKwgEAAABH/tile?v=29863a0056bb372fe650dc7763625e8c&size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "tilezoom": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5KA4GvKUKwgEAAABH/tilezoom?v=48948110e7553c80f35ead7d297c3788&size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "background": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5KA4GvKUKwgEAAABH/background?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "backgroundburnedin": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5KA4GvKUKwgEAAABH/backgroundburnedin?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "tileburnedin": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5KA4GvKUKwgEAAABH/tileburnedin?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "tilefocused": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5KA4GvKUKwgEAAABH/tilefocused?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "tileselected": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5KA4GvKUKwgEAAABH/tileselected?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "logo": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5KA4GvKUKwgEAAABH/logo?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "logopadded": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5KA4GvKUKwgEAAABH/logopadded?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "placeholder": "https://artist.api.lv3.cdn.hbo.com/images/GXI_5KA4GvKUKwgEAAABH/placeholder?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}"
+    },
+    "isFree": false,
+    
+    "releaseYear": 2019,
+    "ratingCode": "TV-MA",
+    "duration": 3184,
+    "credits": {
+            "cast": [
+                {
+                    "role": "Tyrion Lannister",
+                    "person": "Peter Dinklage"
+                },
+                {
+                    "role": "Jaime Lannister",
+                    "person": "Nikolaj Coster-Waldau"
+                },
+                {
+                    "role": "Cersei Lannister",
+                    "person": "Lena Headey"
+                },
+                {
+                    "role": "Daenerys Targaryen",
+                    "person": "Emilia Clarke"
+                },
+                {
+                    "role": "Jon Snow",
+                    "person": "Kit Harington"
+                },
+                {
+                    "role": "Sansa Stark",
+                    "person": "Sophie Turner"
+                },
+                {
+                    "role": "Arya Stark",
+                    "person": "Maisie Williams"
+                },
+                {
+                    "role": "Davos Seaworth",
+                    "person": "Liam Cunningham"
+                },
+                {
+                    "role": "Missandei",
+                    "person": "Nathalie Emmanuel"
+                },
+                {
+                    "role": "Theon Greyjoy",
+                    "person": "Alfie Allen"
+                },
+                {
+                    "role": "Samwell Tarly",
+                    "person": "John Bradley"
+                },
+                {
+                    "role": "Bran Stark",
+                    "person": "Isaac Hempstead Wright"
+                },
+                {
+                    "role": "Brienne of Tarth",
+                    "person": "Gwendoline Christie"
+                },
+                {
+                    "role": "Varys",
+                    "person": "Conleth Hill"
+                },
+                {
+                    "role": "Sandor Clegane \"The Hound\"",
+                    "person": "Rory McCann"
+                },
+                {
+                    "role": "Bronn",
+                    "person": "Jerome Flynn"
+                },
+                {
+                    "role": "Tormund",
+                    "person": "Kristofer Hivju"
+                },
+                {
+                    "role": "Gendry",
+                    "person": "Joe Dempsie"
+                },
+                {
+                    "role": "Grey Worm",
+                    "person": "Jacob Anderson"
+                },
+                {
+                    "role": "Jorah Mormont",
+                    "person": "Iain Glen"
+                }
+            ],
+            "directors": [
+                {
+                    "role": "Directed By",
+                    "person": "David Nutter"
+                }
+            ],
+            "producers": [
+                {
+                    "role": "Executive Producer",
+                    "person": "David Benioff"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "D.B. Weiss"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "Carolyn Strauss"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "Frank Doelger"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "Bernadette Caulfield"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "Miguel Sapochnik"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "David Nutter"
+                },
+                {
+                    "role": "Co-executive Producer",
+                    "person": "Bryan Cogman"
+                },
+                {
+                    "role": "Co-executive Producer",
+                    "person": "Guymon Casady"
+                },
+                {
+                    "role": "Co-executive Producer",
+                    "person": "Vince Gerardis"
+                },
+                {
+                    "role": "Co-executive Producer",
+                    "person": "George R.R. Martin"
+                },
+                {
+                    "role": "Producer",
+                    "person": "Lisa McAtackney"
+                },
+                {
+                    "role": "Producer",
+                    "person": "Greg Spence"
+                },
+                {
+                    "role": "Producer",
+                    "person": "Chris Newman"
+                },
+                {
+                    "role": "Producer",
+                    "person": "Duncan Muggoch"
+                }
+            ],
+            "writers": [
+                {
+                    "role": "Written For Television By",
+                    "person": "Dave Hill"
+                },
+                {
+                    "role": "Based On \"a Song Of Ice And Fire\" By",
+                    "person": "George R.R. Martin"
+                }
+            ]
+    },
+    "firstOfferedDate": "2019-04-15T00:57:00.000Z",
+    
+    "displayBrand": "HBO",
+    "analyticsId": "GXI_5KA4GvKUKwgEAAABH",
+    "seriesTitles": {
+        "short": "Game of Thrones",
+        "full": "Game of Thrones"
+    },
+    "seasonTitles": {
+        "ultraShort": "8",
+        "short": "Sn 8",
+        "full": "Season 8"
+    },
+    "numberInSeason": 1,
+    "seasonNumber": 8,
+    "playbackMarkerId": "GXI_5KA4GvKUKwgEAAABH",
+    "shouldUseEpisodePrefix": true,
+    "references": {
+        "edits": [
+            "urn:hbo:edit:GXl63wQEvITC3wwEAACdd:episode:GXI_5KA4GvKUKwgEAAABH"
+        ],
+        "extras": [
+            "urn:hbo:extra:GXH2OUAVIZbPCCgEAAAAI",
+            "urn:hbo:extra:GXDenSgXYmsLCewEAAAAG",
+            "urn:hbo:extra:GXIKX6AL7h8PCwwEAAADw",
+            "urn:hbo:extra:GXIqfEAxBP8NWtQEAAAA4",
+            "urn:hbo:extra:GXJKlPwRPiIqlUQEAAAAD",
+            "urn:hbo:extra:GXJKkvA5DCLy1mgEAAAAD",
+            "urn:hbo:extra:GXK0vtQHoXqskrgEAAAFK",
+            "urn:hbo:extra:GXK0pfgKVVqskrgEAAAFJ",
+            "urn:hbo:extra:GXK4w3ANpNMN6rwEAAAE9",
+            "urn:hbo:extra:GXK_HNgq9ILyroAEAAAHL",
+            "urn:hbo:extra:GXLjnmwnZosN8owEAAAKb"
+        ],
+        "series": "urn:hbo:series:GVU2cggagzYNJjhsJATwo",
+        "season": "urn:hbo:season:GXI_5KA8r_quWIwEAAABb",
+        "next": "urn:hbo:episode:GXI_5MwWe6KUKwgEAAABP",
+        "previous": "urn:hbo:episode:GWTgiFAkQj7SmhgEAAAAC"
+    }
+}
+},{    "id": "urn:hbo:edit:GXmfgJQlYAcNVoAEAAABu:episode:GXJv1kQyS34N3wwEAAAIU",    "statusCode": 200,    "headers": {"ETag":"\"6b0-4+1ACvid9YqhfFqYL+4b2A\"","Cache-Control":"max-age=60"},    "body": {
+    "originalAudioLanguage": "en-US",
+"audioTracks":             [
+                {
+                    "language": "es-419",
+                    "output": "Stereo",
+                    "displayName": "Español"
+                },
+                {
+                    "language": "es-419",
+                    "output": "Stereo",
+                    "displayName": "Español"
+                },
+                {
+                    "language": "es-419",
+                    "output": "Stereo",
+                    "displayName": "Español"
+                },
+                {
+                    "language": "en-US",
+                    "output": "Stereo",
+                    "displayName": "English"
+                },
+                {
+                    "language": "en-US",
+                    "output": "5.1 Surround",
+                    "displayName": "English"
+                },
+                {
+                    "language": "en-US",
+                    "output": "5.1 Surround",
+                    "displayName": "English"
+                }
+            ],
+"textTracks":             [
+                {
+                    "language": "en-US",
+                    "displayName": "English CC"
+                },
+                {
+                    "language": "es-419",
+                    "displayName": "Español"
+                }
+            ],
+    "creditsStartTime": 4598,
+    "duration": 4676,
+    "quality": "HD",
+    "playbackMarkerId": "GXJv1kQyS34N3wwEAAAIU",
+    "analyticsId": "GXmfgJQlYAcNVoAEAAABu",
+    "references": {
+        "viewable": "urn:hbo:episode:GXJv1kQyS34N3wwEAAAIU",
+        "video": "urn:hbo:video:GXmfgJQlYAcNVoAEAAABu:episode:GXJv1kQyS34N3wwEAAAIU"
+    }
+}
+},{    "id": "urn:hbo:episode:GXJv1mw0FQagjKgEAAAHQ",    "statusCode": 200,    "headers": {"ETag":"\"2083-lRhbZdbP+Ifgu4lSSKZy5Q\"","Cache-Control":"max-age=60"},    "body": {
+    "titles": {
+        "short": "The Iron Throne",
+        "full": "The Iron Throne"
+    },
+    "summaries": {
+        "short": "Series finale. The fate of the Seven Kingdoms is at stake as the final chapter of Game of Thrones is written.",
+        "full": "Series finale. The fate of the Seven Kingdoms is at stake as the final chapter of Game of Thrones is written."
+    },
+    "images": {
+        "tile": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1mw0FQagjKgEAAAHQ/tile?v=bedd61c2055650815cdc5356048e8600&size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "tilezoom": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1mw0FQagjKgEAAAHQ/tilezoom?v=fcd4b401891844290f73a722ef1c8dd9&size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "background": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1mw0FQagjKgEAAAHQ/background?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "backgroundburnedin": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1mw0FQagjKgEAAAHQ/backgroundburnedin?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "tileburnedin": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1mw0FQagjKgEAAAHQ/tileburnedin?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "tilefocused": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1mw0FQagjKgEAAAHQ/tilefocused?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "tileselected": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1mw0FQagjKgEAAAHQ/tileselected?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "logo": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1mw0FQagjKgEAAAHQ/logo?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "logopadded": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1mw0FQagjKgEAAAHQ/logopadded?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "placeholder": "https://artist.api.lv3.cdn.hbo.com/images/GXJv1mw0FQagjKgEAAAHQ/placeholder?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}"
+    },
+    "isFree": false,
+    
+    "releaseYear": 2019,
+    "ratingCode": "TV-MA",
+    "duration": 4713,
+    "credits": {
+            "cast": [
+                {
+                    "role": "Tyrion Lannister",
+                    "person": "Peter Dinklage"
+                },
+                {
+                    "role": "Jaime Lannister",
+                    "person": "Nikolaj Coster-Waldau"
+                },
+                {
+                    "role": "Cersei Lannister",
+                    "person": "Lena Headey"
+                },
+                {
+                    "role": "Daenerys Targaryen",
+                    "person": "Emilia Clarke"
+                },
+                {
+                    "role": "Jon Snow",
+                    "person": "Kit Harington"
+                },
+                {
+                    "role": "Sansa Stark",
+                    "person": "Sophie Turner"
+                },
+                {
+                    "role": "Arya Stark",
+                    "person": "Maisie Williams"
+                },
+                {
+                    "role": "Davos Seaworth",
+                    "person": "Liam Cunningham"
+                },
+                {
+                    "role": "Samwell Tarly",
+                    "person": "John Bradley"
+                },
+                {
+                    "role": "Bran Stark",
+                    "person": "Isaac Hempstead Wright"
+                },
+                {
+                    "role": "Brienne of Tarth",
+                    "person": "Gwendoline Christie"
+                },
+                {
+                    "role": "Bronn",
+                    "person": "Jerome Flynn"
+                },
+                {
+                    "role": "Tormund",
+                    "person": "Kristofer Hivju"
+                },
+                {
+                    "role": "Gendry",
+                    "person": "Joe Dempsie"
+                },
+                {
+                    "role": "Grey Worm",
+                    "person": "Jacob Anderson"
+                }
+            ],
+            "directors": [
+                {
+                    "role": "Directed By",
+                    "person": "David Benioff"
+                },
+                {
+                    "role": "Directed By",
+                    "person": "D.B. Weiss"
+                }
+            ],
+            "producers": [
+                {
+                    "role": "Executive Producer",
+                    "person": "David Benioff"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "D.B. Weiss"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "Carolyn Strauss"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "Frank Doelger"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "Bernadette Caulfield"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "Miguel Sapochnik"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "David Nutter"
+                },
+                {
+                    "role": "Co-executive Producer",
+                    "person": "Bryan Cogman"
+                },
+                {
+                    "role": "Co-executive Producer",
+                    "person": "Guymon Casady"
+                },
+                {
+                    "role": "Co-executive Producer",
+                    "person": "Vince Gerardis"
+                },
+                {
+                    "role": "Co-executive Producer",
+                    "person": "George R.R. Martin"
+                },
+                {
+                    "role": "Producer",
+                    "person": "Lisa McAtackney"
+                },
+                {
+                    "role": "Producer",
+                    "person": "Greg Spence"
+                },
+                {
+                    "role": "Producer",
+                    "person": "Chris Newman"
+                },
+                {
+                    "role": "Producer",
+                    "person": "Duncan Muggoch"
+                }
+            ],
+            "writers": [
+                {
+                    "role": "Written For Television By",
+                    "person": "David Benioff"
+                },
+                {
+                    "role": "Written For Television By",
+                    "person": "D.B. Weiss"
+                },
+                {
+                    "role": "Based On \"a Song Of Ice And Fire\" By",
+                    "person": "George R.R. Martin"
+                }
+            ]
+    },
+    "firstOfferedDate": "2019-05-20T00:57:00.000Z",
+    
+    "displayBrand": "HBO",
+    "analyticsId": "GXJv1mw0FQagjKgEAAAHQ",
+    "seriesTitles": {
+        "short": "Game of Thrones",
+        "full": "Game of Thrones"
+    },
+    "seasonTitles": {
+        "ultraShort": "8",
+        "short": "Sn 8",
+        "full": "Season 8"
+    },
+    "numberInSeason": 6,
+    "seasonNumber": 8,
+    "playbackMarkerId": "GXJv1mw0FQagjKgEAAAHQ",
+    "shouldUseEpisodePrefix": true,
+    "references": {
+        "edits": [
+            "urn:hbo:edit:GXl63-A1pLjC3wwEAACdn:episode:GXJv1mw0FQagjKgEAAAHQ"
+        ],
+        "extras": [
+            "urn:hbo:extra:GXKN0PQEQKcJzwwEAAAAS",
+            "urn:hbo:extra:GXNsG6As5r8LDwgEAAAL6",
+            "urn:hbo:extra:GXN2z_wqetsLDwgEAAANx"
+        ],
+        "series": "urn:hbo:series:GVU2cggagzYNJjhsJATwo",
+        "season": "urn:hbo:season:GXI_5KA8r_quWIwEAAABb",
+        "previous": "urn:hbo:episode:GXJv1kQyS34N3wwEAAAIU"
+    }
+}
+},{    "id": "urn:hbo:edit:GXl63wQEvITC3wwEAACdd:episode:GXI_5KA4GvKUKwgEAAABH",    "statusCode": 200,    "headers": {"ETag":"\"562-rI/ik4vBLWrBGqCxDt67lQ\"","Cache-Control":"max-age=60"},    "body": {
+    "originalAudioLanguage": "en-US",
+"audioTracks":             [
+                {
+                    "language": "es-419",
+                    "output": "Stereo",
+                    "displayName": "Español"
+                },
+                {
+                    "language": "es-419",
+                    "output": "Stereo",
+                    "displayName": "Español"
+                },
+                {
+                    "language": "en-US",
+                    "output": "5.1 Surround",
+                    "displayName": "English"
+                },
+                {
+                    "language": "en-US",
+                    "output": "Stereo",
+                    "displayName": "English"
+                }
+            ],
+"textTracks":             [
+                {
+                    "language": "en-US",
+                    "displayName": "English CC"
+                },
+                {
+                    "language": "es-419",
+                    "displayName": "Español"
+                }
+            ],
+    "creditsStartTime": 3106,
+    "duration": 3184,
+    "quality": "HD",
+    "playbackMarkerId": "GXI_5KA4GvKUKwgEAAABH",
+    "analyticsId": "GXl63wQEvITC3wwEAACdd",
+    "references": {
+        "viewable": "urn:hbo:episode:GXI_5KA4GvKUKwgEAAABH",
+        "video": "urn:hbo:video:GXl63wQEvITC3wwEAACdd:episode:GXI_5KA4GvKUKwgEAAABH"
+    }
+}
+},{    "id": "urn:hbo:episode:GWTgiFAkQj7SmhgEAAAAC",    "statusCode": 200,    "headers": {"ETag":"\"21b2-+3Z7gsL6d1AKGKQow+NzZw\"","Cache-Control":"max-age=60"},    "body": {
+    "titles": {
+        "short": "The Dragon and the Wolf",
+        "full": "The Dragon and the Wolf"
+    },
+    "summaries": {
+        "short": "Season 7 finale. Tyrion tries to save Westeros from itself. Sansa questions loyalties.",
+        "full": "Season 7 finale. Tyrion tries to save Westeros from itself. Sansa questions loyalties."
+    },
+    "images": {
+        "tile": "https://artist.api.lv3.cdn.hbo.com/images/GWTgiFAkQj7SmhgEAAAAC/tile?v=18d9e911bbbbf0247bd389d2ba76052d&size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "tilezoom": "https://artist.api.lv3.cdn.hbo.com/images/GWTgiFAkQj7SmhgEAAAAC/tilezoom?v=99cd8ecb2c6b5de529f2a5a4aac6d38e&size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "background": "https://artist.api.lv3.cdn.hbo.com/images/GWTgiFAkQj7SmhgEAAAAC/background?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "backgroundburnedin": "https://artist.api.lv3.cdn.hbo.com/images/GWTgiFAkQj7SmhgEAAAAC/backgroundburnedin?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "tileburnedin": "https://artist.api.lv3.cdn.hbo.com/images/GWTgiFAkQj7SmhgEAAAAC/tileburnedin?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "tilefocused": "https://artist.api.lv3.cdn.hbo.com/images/GWTgiFAkQj7SmhgEAAAAC/tilefocused?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "tileselected": "https://artist.api.lv3.cdn.hbo.com/images/GWTgiFAkQj7SmhgEAAAAC/tileselected?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "logo": "https://artist.api.lv3.cdn.hbo.com/images/GWTgiFAkQj7SmhgEAAAAC/logo?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "logopadded": "https://artist.api.lv3.cdn.hbo.com/images/GWTgiFAkQj7SmhgEAAAAC/logopadded?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}",
+        "placeholder": "https://artist.api.lv3.cdn.hbo.com/images/GWTgiFAkQj7SmhgEAAAAC/placeholder?size={{size}}&compression={{compression}}&protection={{protection}}&scaleDownToFit={{scaleDownToFit}}"
+    },
+    "isFree": false,
+    
+    "releaseYear": 2017,
+    "ratingCode": "TV-MA",
+    "duration": 4787,
+    "credits": {
+            "cast": [
+                {
+                    "role": "Tyrion Lannister",
+                    "person": "Peter Dinklage"
+                },
+                {
+                    "role": "Jaime Lannister",
+                    "person": "Nikolaj Coster-Waldau"
+                },
+                {
+                    "role": "Cersei Lannister",
+                    "person": "Lena Headey"
+                },
+                {
+                    "role": "Daenerys Targaryen",
+                    "person": "Emilia Clarke"
+                },
+                {
+                    "role": "Jon Snow",
+                    "person": "Kit Harington"
+                },
+                {
+                    "role": "Littlefinger",
+                    "person": "Aidan Gillen"
+                },
+                {
+                    "role": "Davos Seaworth",
+                    "person": "Liam Cunningham"
+                },
+                {
+                    "role": "Sansa Stark",
+                    "person": "Sophie Turner"
+                },
+                {
+                    "role": "Arya Stark",
+                    "person": "Maisie Williams"
+                },
+                {
+                    "role": "Missandei",
+                    "person": "Nathalie Emmanuel"
+                },
+                {
+                    "role": "Theon Greyjoy",
+                    "person": "Alfie Allen"
+                },
+                {
+                    "role": "Samwell Tarly",
+                    "person": "John Bradley"
+                },
+                {
+                    "role": "Bran Stark",
+                    "person": "Isaac Hempstead Wright"
+                },
+                {
+                    "role": "Varys",
+                    "person": "Conleth Hill"
+                },
+                {
+                    "role": "Bronn",
+                    "person": "Jerome Flynn"
+                },
+                {
+                    "role": "Brienne of Tarth",
+                    "person": "Gwendoline Christie"
+                },
+                {
+                    "role": "Sandor Clegane \"The Hound\"",
+                    "person": "Rory McCann"
+                },
+                {
+                    "role": "Tormund",
+                    "person": "Kristofer Hivju"
+                },
+                {
+                    "role": "Gilly",
+                    "person": "Hannah Murray"
+                },
+                {
+                    "role": "Jorah Mormont",
+                    "person": "Iain Glen"
+                }
+            ],
+            "directors": [
+                {
+                    "role": "Director",
+                    "person": "Jeremy Podeswa"
+                }
+            ],
+            "producers": [
+                {
+                    "role": "Executive Producer",
+                    "person": "David Benioff"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "D.B. Weiss"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "Carolyn Strauss"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "Frank Doelger"
+                },
+                {
+                    "role": "Executive Producer",
+                    "person": "Bernadette Caulfield"
+                },
+                {
+                    "role": "Co-executive Producer",
+                    "person": "Bryan Cogman"
+                },
+                {
+                    "role": "Co-executive Producer",
+                    "person": "Guymon Casady"
+                },
+                {
+                    "role": "Co-executive Producer",
+                    "person": "Vince Gerardis"
+                },
+                {
+                    "role": "Co-executive Producer",
+                    "person": "George R.R. Martin"
+                },
+                {
+                    "role": "Producer",
+                    "person": "Lisa McAtackney"
+                },
+                {
+                    "role": "Producer",
+                    "person": "Greg Spence"
+                },
+                {
+                    "role": "Producer",
+                    "person": "Chris Newman"
+                }
+            ],
+            "writers": [
+                {
+                    "role": "Written For Television By",
+                    "person": "David Benioff"
+                },
+                {
+                    "role": "Written For Television By",
+                    "person": "D.B. Weiss"
+                },
+                {
+                    "role": "Based On \"a Song Of Ice And Fire\" By",
+                    "person": "George R.R. Martin"
+                }
+            ]
+    },
+    "firstOfferedDate": "2017-08-28T00:57:00.000Z",
+    
+    "displayBrand": "HBO",
+    "analyticsId": "GWTgiFAkQj7SmhgEAAAAC",
+    "seriesTitles": {
+        "short": "Game of Thrones",
+        "full": "Game of Thrones"
+    },
+    "seasonTitles": {
+        "ultraShort": "7",
+        "short": "Sn 7",
+        "full": "Season 7"
+    },
+    "numberInSeason": 7,
+    "seasonNumber": 7,
+    "playbackMarkerId": "GWTgiFAkQj7SmhgEAAAAC",
+    "shouldUseEpisodePrefix": true,
+    "references": {
+        "edits": [
+            "urn:hbo:edit:GXmfgegrY9sNVoAEAAAB9:episode:GWTgiFAkQj7SmhgEAAAAC"
+        ],
+        "extras": [
+            "urn:hbo:extra:GWZyk9gFnbKTCwgEAAACL",
+            "urn:hbo:extra:GWZyk9gPwM8J3wgEAAACI",
+            "urn:hbo:extra:GWZyk9genjLCCwwEAAACJ",
+            "urn:hbo:extra:GWbA70gXwVcJ3wgEAAAEN",
+            "urn:hbo:extra:GW-Hnmw1E7MLCBQEAAAAT",
+            "urn:hbo:extra:GXDenSgXYmsLCewEAAAAG"
+        ],
+        "series": "urn:hbo:series:GVU2cggagzYNJjhsJATwo",
+        "season": "urn:hbo:season:GWSL97g3VIxqGggEAAAAq",
+        "next": "urn:hbo:episode:GXI_5KA4GvKUKwgEAAABH",
+        "previous": "urn:hbo:episode:GWTghiQTZksNDAwEAAABF"
+    }
+}
+}]

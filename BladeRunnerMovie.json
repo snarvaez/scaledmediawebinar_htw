@@ -1,0 +1,45 @@
+{
+	"adult": "False",
+	"belongs_to_collection": {
+		"id": {"$numberInt": "422837"},
+		"name": "Blade Runner Collection",
+		"poster_path": "/foT46aJ7QPUFDl3CK8ArDl0JaZX.jpg",
+		"backdrop_path": "/57zhlMYblPute6qb8v16ZmGSPVv.jpg"
+	},
+	"budget": {"$numberInt": "28000000"},
+	"genres": [
+        {"id": {"$numberInt": "878"},"name": "Science Fiction"}, 
+        {"id": {"$numberInt": "18"},"name": "Drama"}, 
+        {"id": {"$numberInt": "53"},"name": "Thriller"}],
+	"homepage": "http://www.warnerbros.com/blade-runner",
+	"imdb_id": "tt0083658",
+	"original_language": "en",
+	"original_title": "Blade Runner",
+	"overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+	"popularity": {"$numberDouble": "96.272374"},
+	"poster_path": "/p64TtbZGCElxQHpAMWmDHkWJlH2.jpg",
+	"production_companies": [
+        {"name": "Shaw Brothers","id": {"$numberInt": "5798"}}, 
+        {"name": "Warner Bros.","id": {"$numberInt": "6194"}}, 
+        {"name": "The Ladd Company","id": {"$numberInt": "7965"}
+	}],
+	"production_countries": [
+        {"iso_3166_1": "US", "name": "United States of America"}, 
+        {"iso_3166_1": "HK","name": "Hong Kong"}, 
+        {"iso_3166_1": "GB","name": "United Kingdom"}],
+	"release_date": "1982-06-25",
+	"revenue": {"$numberInt": "33139618"},
+	"runtime": {"$numberDouble": "117"},
+	"spoken_languages": [
+        {"iso_639_1": "en","name": "English"}, 
+        {"iso_639_1": "de","name": "Deutsch"}, 
+        {"iso_639_1": "cn","name": "广州话 / 廣州話"}, 
+        {"iso_639_1": "ja","name": "日本語"}, 
+        {"iso_639_1": "hu","name": "Magyar"}],
+	"status": "Released",
+	"tagline": "Man has made his match... now it's his problem.",
+	"title": "Blade Runner",
+	"video": "False",
+	"vote_average": {"$numberDouble": "7.9"},
+	"vote_count": {"$numberInt": "3833"}
+}

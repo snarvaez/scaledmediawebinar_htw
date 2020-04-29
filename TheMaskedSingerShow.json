@@ -1,0 +1,281 @@
+{
+	"@id": "https://api3.fox.com/v2.0/video/f2df7c59f9d6411ec6f20fe8ac86b925",
+	"@type": "Video",
+	"approved": true,
+	"audioOnly": false,
+	"autoPlayStill": {
+		"default": {
+			"url": "https://assets.foxdcg.com/dpp-uploaded/images/the-masked-singer/the-masked-singer_03/the-masked-singer_03_13b/afm_lan.jpg"
+		},
+		"portraitHandset": {
+			"url": "https://assets.foxdcg.com/dpp-uploaded/images/the-masked-singer/the-masked-singer_03/the-masked-singer_03_13b/afm_por.jpg"
+		},
+		"portraitTablet": {
+			"url": "https://assets.foxdcg.com/dpp-uploaded/images/the-masked-singer/the-masked-singer_03/the-masked-singer_03_13b/afm_por.jpg"
+		}
+	},
+	"autoPlayVideo": {
+		"default": {
+			"url": "https://content.uplynk.com/941757644e0e48dd84cbba53e21aa05b.m3u8?rays=g"
+		},
+		"portrait": {
+			"url": "https://content.uplynk.com/17ef39e5e3304626b26f85b2dcbb0ecd.m3u8?rays=g"
+		}
+	},
+	"available": "2020-04-23T07:00:00.000Z",
+	"callSign": "KTTV",
+	"categoryTags": ["music"],
+	"chapters": [{
+		"endTime": 0,
+		"startTime": 0,
+		"type": "content"
+	}, {
+		"endTime": 0,
+		"startTime": 619,
+		"type": "content"
+	}, {
+		"endTime": 0,
+		"startTime": 965,
+		"type": "content"
+	}, {
+		"endTime": 0,
+		"startTime": 1582,
+		"type": "content"
+	}, {
+		"endTime": 0,
+		"startTime": 1891,
+		"type": "content"
+	}, {
+		"endTime": 0,
+		"startTime": 2281,
+		"type": "content"
+	}],
+	"contentAdType": "CLEAN",
+	"contentRating": "tv-pg",
+	"contentSKU": ["us.fbc-fox"],
+	"contentSKUResolved": [{
+		"@id": "https://api3.fox.com/v2.0/contentskus/5b02f370c0fb61002b8960e2",
+		"@populated": true,
+		"@type": "ContentSKU",
+		"_environment": "cms",
+		"_isCustom": false,
+		"_overrides": [],
+		"_platform": "default",
+		"_versions": {
+			"cms": "8028045de4c69f8a1907ef5b405b4073"
+		},
+		"baseId": "us.fbc-fox",
+		"dateCreated": "2018-05-21T16:27:28.340Z",
+		"dateModified": "2019-09-15T20:39:14.092Z",
+		"id": "5b02f370c0fb61002b8960e2",
+		"name": "us.fbc-fox",
+		"network": "fox",
+		"packageName": "us.fbc-fox",
+		"packageType": "us.fbc-fox",
+		"premiumPackage": "us.fbc-fox",
+		"tags": ["foxSubscription"]
+	}],
+	"creditCuePoint": 2588,
+	"dateCreated": "1970-01-01T00:00:00.000Z",
+	"dateModified": "2020-04-23T23:17:00.523Z",
+	"datePublished": "2020-04-23T01:02:00.000Z",
+	"description": "Nick Cannon and celebrity guests discuss the night's best moments.",
+	"displayBrand": "fox",
+	"displaySeasonAndEpisodeCounts": true,
+	"documentReleases": [{
+		"format": "SCC",
+		"url": "https://static-media.fox.com/dcg/cc/the-masked-singer/SH030241890000_82436165542_1587622617350.scc",
+		"width": 0,
+		"height": 0,
+		"aspectRatio": 0
+	}, {
+		"format": "Filmstrip",
+		"url": "https://static-media.fox.com/dcg/fs/Fox_Networks_DCG_-_FOX_Broadcasting/794/260/AftertheMaskTheMotherofallFinalFaceOffsPart2_3BJL00P1_178x100.fs",
+		"width": 178,
+		"height": 100,
+		"aspectRatio": 1.78
+	}, {
+		"format": "Filmstrip",
+		"url": "https://static-media.fox.com/dcg/fs/Fox_Networks_DCG_-_FOX_Broadcasting/794/260/AftertheMaskTheMotherofallFinalFaceOffsPart2_3BJL00P1_140x79.fs",
+		"width": 140,
+		"height": 79,
+		"aspectRatio": 1.77
+	}, {
+		"format": "Filmstrip",
+		"url": "https://static-media.fox.com/dcg/fs/Fox_Networks_DCG_-_FOX_Broadcasting/794/260/AftertheMaskTheMotherofallFinalFaceOffsPart2_3BJL00P1_212x119.fs",
+		"width": 212,
+		"height": 119,
+		"aspectRatio": 1.78
+	}, {
+		"format": "Filmstrip",
+		"url": "https://static-media.fox.com/dcg/fs/Fox_Networks_DCG_-_FOX_Broadcasting/794/260/AftertheMaskTheMotherofallFinalFaceOffsPart2_3BJL00P1_470x297.fs",
+		"width": 470,
+		"height": 297,
+		"aspectRatio": 1.58
+	}],
+	"duration": "T43M11S",
+	"durationInSeconds": 2591,
+	"endDate": "2020-04-30T07:00:00.000Z",
+	"episodeNumber": 14,
+	"expires": "1970-01-01T00:00:00.000Z",
+	"externalId": ["1728376899547"],
+	"favoritableItems": [{
+		"@type": "Series",
+		"id": "the-masked-singer"
+	}],
+	"format": "M3U",
+	"fullEpisodeCount": 38,
+	"genres": ["Reality", "Game Show", "Music", "Family"],
+	"guid": "SH030241890000",
+	"id": "f2df7c59f9d6411ec6f20fe8ac86b925",
+	"images": {
+		"keyart": {
+			"FHD": "https://assets.foxdcg.com/dpp-uploaded/final_images_sports/FallBack-FOX.jpg?fit=inside%7C1100:624",
+			"HD": "https://assets.foxdcg.com/dpp-uploaded/final_images_sports/FallBack-FOX.jpg?fit=inside%7C1100:624",
+			"SD": "https://assets.foxdcg.com/dpp-uploaded/final_images_sports/FallBack-FOX.jpg?fit=inside%7C1100:624",
+			"raw": "https://assets.foxdcg.com/dpp-uploaded/final_images_sports/FallBack-FOX.jpg"
+		},
+		"keyart_phone_portrait": {
+			"FHD": "https://assets.foxdcg.com/dpp-uploaded/final_images_sports/FallBack-FOX.jpg?fit=inside%7C1125:2001",
+			"HD": "https://assets.foxdcg.com/dpp-uploaded/final_images_sports/FallBack-FOX.jpg?fit=inside%7C1125:2001",
+			"SD": "https://assets.foxdcg.com/dpp-uploaded/final_images_sports/FallBack-FOX.jpg?fit=inside%7C1125:2001",
+			"raw": "https://assets.foxdcg.com/dpp-uploaded/final_images_sports/FallBack-FOX.jpg"
+		},
+		"keyart_tablet_landscape": {
+			"FHD": "https://assets.foxdcg.com/dpp-uploaded/images/the-masked-singer/the-masked-singer_03/keyart-tab-lan_s3.jpg?fit=inside%7C3072:2304",
+			"HD": "https://assets.foxdcg.com/dpp-uploaded/images/the-masked-singer/the-masked-singer_03/keyart-tab-lan_s3.jpg?fit=inside%7C3072:2304",
+			"SD": "https://assets.foxdcg.com/dpp-uploaded/images/the-masked-singer/the-masked-singer_03/keyart-tab-lan_s3.jpg?fit=inside%7C3072:2304",
+			"raw": "https://assets.foxdcg.com/dpp-uploaded/images/the-masked-singer/the-masked-singer_03/keyart-tab-lan_s3.jpg"
+		},
+		"keyart_tablet_portrait": {
+			"FHD": "https://assets.foxdcg.com/dpp-uploaded/images/the-masked-singer/the-masked-singer_03/keyart-tab-por_s3.jpg?fit=inside%7C2304:3072",
+			"HD": "https://assets.foxdcg.com/dpp-uploaded/images/the-masked-singer/the-masked-singer_03/keyart-tab-por_s3.jpg?fit=inside%7C2304:3072",
+			"SD": "https://assets.foxdcg.com/dpp-uploaded/images/the-masked-singer/the-masked-singer_03/keyart-tab-por_s3.jpg?fit=inside%7C2304:3072",
+			"raw": "https://assets.foxdcg.com/dpp-uploaded/images/the-masked-singer/the-masked-singer_03/keyart-tab-por_s3.jpg"
+		},
+		"poster": {
+			"FHD": "https://assets.foxdcg.com/dpp-uploaded/final_images_sports/FallBack-FOX.jpg?fit=inside%7C1280:720",
+			"HD": "https://assets.foxdcg.com/dpp-uploaded/final_images_sports/FallBack-FOX.jpg?fit=inside%7C1280:720",
+			"SD": "https://assets.foxdcg.com/dpp-uploaded/final_images_sports/FallBack-FOX.jpg?fit=inside%7C1280:720",
+			"raw": "https://assets.foxdcg.com/dpp-uploaded/final_images_sports/FallBack-FOX.jpg"
+		},
+		"posterList": {
+			"FHD": "https://assets.foxdcg.com/dpp-uploaded/final_images_sports/FallBack-FOX.jpg?fit=inside%7C400:600",
+			"HD": "https://assets.foxdcg.com/dpp-uploaded/final_images_sports/FallBack-FOX.jpg?fit=inside%7C200:300",
+			"SD": "https://assets.foxdcg.com/dpp-uploaded/final_images_sports/FallBack-FOX.jpg?fit=inside%7C120:180",
+			"raw": "https://assets.foxdcg.com/dpp-uploaded/final_images_sports/FallBack-FOX.jpg"
+		},
+		"productionStill": {
+			"FHD": "https://assets.foxdcg.com/dpp-uploaded/final_images_sports/FallBack-FOX.jpg?fit=inside%7C1280:720",
+			"HD": "https://assets.foxdcg.com/dpp-uploaded/final_images_sports/FallBack-FOX.jpg?fit=inside%7C1280:720",
+			"SD": "https://assets.foxdcg.com/dpp-uploaded/final_images_sports/FallBack-FOX.jpg?fit=inside%7C1280:720",
+			"raw": "https://assets.foxdcg.com/dpp-uploaded/final_images_sports/FallBack-FOX.jpg"
+		},
+		"seriesList": {
+			"FHD": "https://assets.foxdcg.com/dpp-uploaded/images/the-masked-singer/the-masked-singer_03/seriesList_s3.jpg?fit=inside%7C528:297",
+			"HD": "https://assets.foxdcg.com/dpp-uploaded/images/the-masked-singer/the-masked-singer_03/seriesList_s3.jpg?fit=inside%7C320:180",
+			"SD": "https://assets.foxdcg.com/dpp-uploaded/images/the-masked-singer/the-masked-singer_03/seriesList_s3.jpg?fit=inside%7C320:180",
+			"raw": "https://assets.foxdcg.com/dpp-uploaded/images/the-masked-singer/the-masked-singer_03/seriesList_s3.jpg"
+		},
+		"showcase": {
+			"FHD": "https://assets.foxdcg.com/dpp-uploaded/images/the-masked-singer/the-masked-singer_03/showcase_s3.jpg?fit=inside%7C1100:624",
+			"HD": "https://assets.foxdcg.com/dpp-uploaded/images/the-masked-singer/the-masked-singer_03/showcase_s3.jpg?fit=inside%7C740:416",
+			"SD": "https://assets.foxdcg.com/dpp-uploaded/images/the-masked-singer/the-masked-singer_03/showcase_s3.jpg?fit=inside%7C480:270",
+			"raw": "https://assets.foxdcg.com/dpp-uploaded/images/the-masked-singer/the-masked-singer_03/showcase_s3.jpg"
+		},
+		"still": {
+			"FHD": "https://static-media.fox.com/dcg/img/Fox_Networks_DCG_-_FOX_Broadcasting/794/260/TMS_AfterDarkWLogo.jpg?fit=inside%7C1280:720",
+			"HD": "https://static-media.fox.com/dcg/img/Fox_Networks_DCG_-_FOX_Broadcasting/794/260/TMS_AfterDarkWLogo.jpg?fit=inside%7C740:416",
+			"SD": "https://static-media.fox.com/dcg/img/Fox_Networks_DCG_-_FOX_Broadcasting/794/260/TMS_AfterDarkWLogo.jpg?fit=inside%7C480:270",
+			"raw": "https://static-media.fox.com/dcg/img/Fox_Networks_DCG_-_FOX_Broadcasting/794/260/TMS_AfterDarkWLogo.jpg"
+		},
+		"videoDetail": {
+			"FHD": "https://static-media.fox.com/dcg/img/Fox_Networks_DCG_-_FOX_Broadcasting/794/260/TMS_AfterDarkWLogo.jpg?fit=inside%7C1280:720",
+			"HD": "https://static-media.fox.com/dcg/img/Fox_Networks_DCG_-_FOX_Broadcasting/794/260/TMS_AfterDarkWLogo.jpg?fit=inside%7C1280:720",
+			"SD": "https://static-media.fox.com/dcg/img/Fox_Networks_DCG_-_FOX_Broadcasting/794/260/TMS_AfterDarkWLogo.jpg?fit=inside%7C1280:720",
+			"raw": "https://static-media.fox.com/dcg/img/Fox_Networks_DCG_-_FOX_Broadcasting/794/260/TMS_AfterDarkWLogo.jpg"
+		},
+		"videoList": {
+			"FHD": "https://static-media.fox.com/dcg/img/Fox_Networks_DCG_-_FOX_Broadcasting/794/260/TMS_AfterDarkWLogo.jpg?fit=inside%7C528:297",
+			"HD": "https://static-media.fox.com/dcg/img/Fox_Networks_DCG_-_FOX_Broadcasting/794/260/TMS_AfterDarkWLogo.jpg?fit=inside%7C320:180",
+			"SD": "https://static-media.fox.com/dcg/img/Fox_Networks_DCG_-_FOX_Broadcasting/794/260/TMS_AfterDarkWLogo.jpg?fit=inside%7C110:110",
+			"raw": "https://static-media.fox.com/dcg/img/Fox_Networks_DCG_-_FOX_Broadcasting/794/260/TMS_AfterDarkWLogo.jpg"
+		}
+	},
+	"isEntitled": true,
+	"isVodAvailable": true,
+	"name": "After the Mask: The Mother of All Final Face Offs, Part 2",
+	"network": "fox",
+	"originalAirDate": "2020-04-23T01:02:00.000Z",
+	"playerScreenUrl": "https://api3.fox.com/v2.0/vodplayer/f2df7c59f9d6411ec6f20fe8ac86b925?sitesection=foxnow%2Fwebdesktop%2Fvod%2Fvideopage",
+	"releaseType": "VOD",
+	"releaseTypes": [{
+		"adType": "CLEAN",
+		"aspectRatio": "16:9",
+		"language": "en_US",
+		"releaseType": "default"
+	}],
+	"releaseTypesCount": 1,
+	"releaseYear": 2020,
+	"requiresAuth": true,
+	"requiresAuthLive": true,
+	"requiresMVPDAuth": null,
+	"scrubbingEnabled": true,
+	"seasonNumber": 3,
+	"seriesName": "The Masked Singer",
+	"seriesScreenUrl": "https://api3.fox.com/v2.0/screens/series-detail/the-masked-singer",
+	"seriesType": "series",
+	"showCode": "the-masked-singer",
+	"showNetworkBug": true,
+	"showTvRatingOverlay": true,
+	"sitesection": "foxnow/webdesktop/vod/videopage",
+	"subRatings": ["d", "l"],
+	"timeShiftedLiveRestart": false,
+	"tmsId": "EP030241890049",
+	"trackingData": {
+		"context": {
+			"ip": "68.4.234.46, 23.36.15.222",
+			"location": {
+				"dma": "803"
+			},
+			"timeZone": "America/Los_Angeles"
+		},
+		"properties": {
+			"affWin": "none",
+			"appName": "FOX NOW",
+			"assetName": "[1728376899547] The Masked Singer - After the Mask: The Mother of All Final Face Offs, Part 2",
+			"authRequired": true,
+			"availabilityTags": ["hulu", "authenticated", "bankable"],
+			"brand": "FOX",
+			"CDN": "fa",
+			"contentId": "f2df7c59f9d6411ec6f20fe8ac86b925",
+			"contentType": "fullEpisode",
+			"duration": 2591,
+			"freewheelId": "1728376899547",
+			"freewheelSiteSection": "foxnow%2Fwebdesktop%2Fvod%2Fvideopage",
+			"isLive": false,
+			"localStation": "KTTV-DT",
+			"mux_experiment_name": "",
+			"mux_player_name": "foxnow_web_en-US",
+			"mux_sub_property_id": "active-live-stream",
+			"mux_video_cdn": "fastly",
+			"mux_video_series": "",
+			"mux_video_stream_type": "vod",
+			"mux_video_title": "The Masked Singer|After the Mask: The Mother of All Final Face Offs, Part 2",
+			"mux_viewer_user_id": "d2ViY2E0YmVlMTUtYzBhYS00ZjI1LTg3NTgtNDMyOTA4NGNmMGJi",
+			"network": "fox",
+			"platform": "foxnow_web_en-US",
+			"programType": "series",
+			"recommendationId": "",
+			"seriesName": "The Masked Singer",
+			"show": "The Masked Singer",
+			"title": "After the Mask: The Mother of All Final Face Offs, Part 2",
+			"uID": "the-masked-singer_03_13b"
+		},
+		"userId": "d2ViY2E0YmVlMTUtYzBhYS00ZjI1LTg3NTgtNDMyOTA4NGNmMGJi"
+	},
+	"uID": "the-masked-singer_03_13b",
+	"upNextUrl": "https://api3.fox.com/v2.0/upnext/videos/f2df7c59f9d6411ec6f20fe8ac86b925",
+	"url": "https://link.theplatform.com/s/fox-dcg/media/2WSrfP0UtiDq?affiliate=KTTV\u0026assetTypes=uplynk-clean%3Auplynk-ivod-national%3Auplynk-ivod-west%3Auplynk-ivod-mountain%3Auplynk-ivod-east%3Auplynk-ivod\u0026format=redirect\u0026formats=m3u\u0026profile=516429%3Auplynk_foxnow_webdesktop_vod\u0026ptid=foxnow_web_VOD_free\u0026sitesection=foxnow%2Fwebdesktop%2Fvod%2Fvideopage\u0026auth=%3CsignatureInfo%3EtluIWzVPHqE1CZZ9Yk8Bg2j9%2BRiEOSXZzxaGiJ5pjSBuroi2KUukPhRi5pQB4pr05cUBbr6MCLKOsJnVgvWqv%2FC97oR2hQASR%2FsZ6IVmC7XyxJaSCZOTARPK2ti5pD%2BOvEemInAvGXrAfDxwcHj2yme8PCOOC0dDTobKTuIdvnY%3D%3CsignatureInfo%3E%3CauthToken%3E%3CsessionGUID%3Eb4bfa8df77a1f60e06e46651ab14e6a8%3C%2FsessionGUID%3E%3CrequestorID%3Efbc-fox%3C%2FrequestorID%3E%3CresourceID%3E%3C%21%5BCDATA%5B%3Crss%20version%3D%222.0%22%20xmlns%3Amedia%3D%22http%3A%2F%2Fsearch.yahoo.com%2Fmrss%2F%22%3E%3Cchannel%3E%3Ctitle%3Efbc-fox%3C%2Ftitle%3E%3Citem%3E%3Ctitle%3E%3C%2Ftitle%3E%3Cguid%3ESH030241890000%3C%2Fguid%3E%3Cmedia%3Arating%20scheme%3D%22urn%3Av-chip%22%3ETV-PG%3C%2Fmedia%3Arating%3E%3C%2Fitem%3E%3C%2Fchannel%3E%3C%2Frss%3E%5D%5D%3E%3C%2FresourceID%3E%3Cttl%3E420000%3C%2Fttl%3E%3CissueTime%3E2020-04-28%2012%3A31%3A27%20-0700%3C%2FissueTime%3E%3CmvpdId%3ETempPass_fbcfox_60min%3C%2FmvpdId%3E%3C%2FauthToken%3E",
+	"videoType": "fullEpisode"
+}

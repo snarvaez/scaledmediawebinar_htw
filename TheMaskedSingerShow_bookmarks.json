@@ -1,0 +1,31 @@
+{
+    "@id": "https://api3.fox.com/v2.0/video/f2df7c59f9d6411ec6f20fe8ac86b925",
+    "uID": "the-masked-singer_03_13b",
+    "videoTitle": "After the Mask: The Mother of All Final Face Offs, Part 2",
+    "showCode": "the-masked-singer",
+    "format": "CLEAN",
+    "showTitle": "The Masked Singer",
+    "bookmark": 278.6093,
+    "videoType": "fullEpisode",
+    "season": 3,
+    "episodeNumber": 14,
+    "percentWatched": 10,
+    "watched": false,
+    "userAgent": [
+        "Go-http-client/1.1"
+    ],
+    "ipAddress": [
+        "3.214.121.113"
+    ],
+    "deviceId": [
+        "ca4bee15-c0aa-4f25-8758-4329084cf0bb"
+    ],
+    "platform": [
+        "foxnow_web_en-US"
+    ],
+    "modified": 1588102383714,
+    "videoLength": 2591,
+    "bookmarkUpdated": 1588102383714,
+    "pubTimestamp": 1587603720000,
+    "created": 1588102383714
+}
